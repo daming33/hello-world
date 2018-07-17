@@ -1,6 +1,6 @@
 ## API document for PDU CLI commands in Sub Agent porting ##
 
-![logo](./sq logo.png "SQ ELECTORNICS")
+![logo](https://github.com/daming33/hello-world/SQ_logo.png "SQ ELECTRONICS")
 
 Description: This document is API interface for PDU CLI command in Control4 Sub-Agnet porting. It's available for both simulator and PDU. The difference between simulator and PDU is that PDU will do real command behavior but simulator do nothing except save some parameters and return same value.
 
